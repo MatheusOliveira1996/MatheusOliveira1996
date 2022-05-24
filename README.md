@@ -1,7 +1,7 @@
 ## Hello! I'm Matheus Oliveira!
 
-- 🔭 I’m currently working on Institute Eldorado as Project technician
-- 🌱 I’m currently learning about JAVA, C, python and C#
+- 🔭 I’m currently working on Instituto de Pesquisas Eldorado as Project technician
+- 🌱 Computer Engineering Student, learning about JAVA, C, python and C#
 
 <div align="center">
   <a href="https://github.com/MatheusOliveira1996">
