@@ -1,6 +1,5 @@
 ## Hello! I'm Matheus Oliveira!
 
-- 🔭 I’m currently working on Instituto de Pesquisas Eldorado as Project technician
 - 🌱 Computer Engineering Student, learning about JAVA, C, python and C#
 
 <div align="center">
